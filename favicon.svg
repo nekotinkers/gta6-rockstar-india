@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<defs>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#9d84c6"/>
+<stop offset=".45" stop-color="#ec9cb0"/>
+<stop offset="1" stop-color="#ffc58f"/>
+</linearGradient>
+<linearGradient id="u" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff4d6"/>
+<stop offset="1" stop-color="#ff9a6b"/>
+</linearGradient>
+<clipPath id="c"><rect width="64" height="64" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="64" height="64" fill="url(#s)"/>
+<circle cx="30" cy="40" r="15" fill="url(#u)"/>
+<g fill="#ec9cb0">
+<rect x="10" y="41" width="40" height="2.2"/>
+<rect x="10" y="46" width="40" height="3"/>
+<rect x="10" y="52" width="40" height="4"/>
+</g>
+<rect y="55" width="64" height="9" fill="#2a1d4d"/>
+<g fill="none" stroke="#2a1d4d" stroke-linecap="round">
+<path d="M47 56 C48 44 47 32 49 20" stroke-width="3"/>
+<g stroke-width="2.6">
+<path d="M49 20 C44 15 38 15 34 19"/>
+<path d="M49 20 C45 19 41 22 39 27"/>
+<path d="M49 20 C54 15 59 15 62 19"/>
+<path d="M49 20 C53 20 57 23 58 28"/>
+<path d="M49 20 C48 15 50 11 54 9"/>
+<path d="M49 20 C46 15 42 12 38 12"/>
+</g>
+</g>
+</g>
+</svg>
