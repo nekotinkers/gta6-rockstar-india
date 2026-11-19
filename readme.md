@@ -32,11 +32,11 @@ Song credits and company names are excluded from all totals. A name alone can't 
 
 ## Running it
 
-It's a single static `index.html` with the data built in. It has no dependencies and no build step, and makes no external requests. Open it in a browser from the [provided url](https://gta6.nekotin.world), or host it with GitHub Pages:
+It's only `index.html` and `favicon.svg` with the data built in html file. It has no dependencies and no build step, and makes no external requests. Open it in a browser from the [provided url](https://gta6.nekotin.world), or host it with GitHub Pages:
 
-1. Put `index.html` in the root of the repo.
+1. Put `index.html` along with `favicon.svg` in the root of the repo.
 2. Go to **Settings → Pages**.
-3. Choose **Deploy from a branch**, then `main` and `/ (root)`.
+3. Choose **Deploy from a branch**, then `main` or `master` and `/ (root)`.
 
 ## Corrections
 
